@@ -34,11 +34,12 @@
 
 /*contents*/
 #contents{
-	height: 1300px;/*나중에 높이삭제*/
+	_height: 1300px;/*나중에 높이삭제*/
 	background-image:url(../images/bg_dot.gif),url(../images/main_bg.jpg);
 	background-repeat:repeat,no-repeat;
 	background-position:center;
 	background-size:auto,cover;
+	padding-bottom:100px;
 
 }
 #contents .title{width: 1200px;height: 260px;background:violet;margin: 0 auto}
